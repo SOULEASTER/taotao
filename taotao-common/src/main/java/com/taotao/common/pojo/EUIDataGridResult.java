@@ -17,11 +17,6 @@ import java.util.List;
  * @date: 2017年9月20日 下午5:17:48
  */
 public class EUIDataGridResult {
-    /**
-     * @Title:EUIDataGridResult
-     * @Description:TODO
-     * @param
-     */
 
     private Integer total;
 
